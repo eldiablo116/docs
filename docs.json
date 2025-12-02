@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "ARCEUS",
   "colors": {
-    "primary": "#FFD700",
+    "primary": "#D47A04",
     "light": "#FFED4E",
     "dark": "#000000"
   },
@@ -25,6 +25,24 @@
             "group": "Getting started",
             "pages": [
               "index"
+            ]
+          },
+          {
+            "group": "Plex",
+            "pages": [
+              "guides/plex"
+            ]
+          },
+          {
+            "group": "Jellyfin",
+            "pages": [
+              "guides/jellyfin"
+            ]
+          },
+          {
+            "group": "TV",
+            "pages": [
+              "guides/tv"
             ]
           }
         ]
