@@ -8,6 +8,10 @@
     "dark": "#000000"
   },
   "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/images/ChatGPT_Image_Nov_4_2025_04_14_34_AM-removebg-preview.png",
+    "dark": "/images/ChatGPT_Image_Nov_4_2025_04_14_34_AM-removebg-preview.png"
+  },
   "navigation": {
     "tabs": [
       {
