@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "ARCEUS",
   "colors": {
-    "primary": "#6366F1",
-    "light": "#818CF8",
-    "dark": "#4F46E5"
+    "primary": "#FFD700",
+    "light": "#FFED4E",
+    "dark": "#000000"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -23,10 +23,6 @@
         ]
       }
     ]
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": []
