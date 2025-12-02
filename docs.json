@@ -30,8 +30,7 @@
           {
             "group": "ARCEUS 101",
             "pages": [
-              "guides/arceus-101/reporting-issue",
-              "guides/arceus-101/discord"
+              "guides/arceus-101/how-to-get-help"
             ]
           },
           {
@@ -41,7 +40,7 @@
               "guides/plex/installing-app",
               "guides/plex/configuring-playback",
               "guides/plex/making-request",
-              "guides/plex/reporting-issue"
+              "guides/plex/issues-with-media"
             ]
           },
           {
@@ -50,7 +49,7 @@
               "guides/jellyfin/connecting-to-jellyfin",
               "guides/jellyfin/recommended-apps",
               "guides/plex/making-request",
-              "guides/plex/reporting-issue"
+              "guides/plex/issues-with-media"
             ]
           },
           {
@@ -59,9 +58,14 @@
               "guides/tv/vpn-information",
               "guides/tv/installing-apps-android",
               "guides/tv/tivimate-settings",
-              "guides/tv/recommended-apps-ios",
-              "guides/plex/making-request",
-              "guides/plex/reporting-issue"
+              "guides/tv/recommended-apps-ios"
+            ]
+          },
+          {
+            "group": "Resources",
+            "pages": [
+              "guides/resources/discord",
+              "guides/resources/portal"
             ]
           }
         ]
