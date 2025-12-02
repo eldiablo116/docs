@@ -30,7 +30,11 @@
           {
             "group": "Plex",
             "pages": [
-              "guides/plex"
+              "guides/plex/accepting-invite",
+              "guides/plex/installing-app",
+              "guides/plex/configuring-playback",
+              "guides/plex/making-request",
+              "guides/plex/reporting-issue"
             ]
           },
           {
