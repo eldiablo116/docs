@@ -4,7 +4,7 @@
   "name": "ARCEUS",
   "colors": {
     "primary": "#D47A04",
-    "light": "#FFED4E",
+    "light": "#D47A04",
     "dark": "#000000"
   },
   "favicon": "/favicon.svg",
