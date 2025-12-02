@@ -28,6 +28,13 @@
             ]
           },
           {
+            "group": "ARCEUS 101",
+            "pages": [
+              "guides/arceus-101/reporting-issue",
+              "guides/arceus-101/discord"
+            ]
+          },
+          {
             "group": "Plex",
             "pages": [
               "guides/plex/accepting-invite",
@@ -40,13 +47,21 @@
           {
             "group": "Jellyfin",
             "pages": [
-              "guides/jellyfin"
+              "guides/jellyfin/connecting-to-jellyfin",
+              "guides/jellyfin/recommended-apps",
+              "guides/plex/making-request",
+              "guides/plex/reporting-issue"
             ]
           },
           {
             "group": "TV",
             "pages": [
-              "guides/tv"
+              "guides/tv/vpn-information",
+              "guides/tv/installing-apps-android",
+              "guides/tv/tivimate-settings",
+              "guides/tv/recommended-apps-ios",
+              "guides/plex/making-request",
+              "guides/plex/reporting-issue"
             ]
           }
         ]
